@@ -2,6 +2,8 @@
 
 An AI-powered computer vision system for **real-time foreign object detection in Bengal gram (chickpea)** using **YOLOv8**, designed for **vision-based food quality inspection** in industrial and agricultural processing pipelines.
 
+[![Patent Status: Approved](https://img.shields.io/badge/Patent-Process%20Ongoing%20%26%20Approved-success.svg)](#patent-status)
+
 ---
 
 ## Overview
@@ -331,6 +333,14 @@ This project supports:
 * SDG 2 — Zero Hunger
 * SDG 9 — Industry, Innovation & Infrastructure
 * SDG 12 — Responsible Consumption & Production
+
+---
+
+## Patent Status
+
+* **Status:** Patent process is ongoing and has received official approval.
+* **Scope:** Real-Time AI & Computer Vision Foreign Object Detection in Bengal Gram (Chickpea) with automated pneumatic / robotic coordinate sorting pipeline.
+* **Intellectual Property:** All system architectures, custom multi-class impurity dataset schemas, center coordinate extraction algorithms, and automated physical ejection interfaces are covered under the patent.
 
 ---
 
